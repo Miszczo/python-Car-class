@@ -4,6 +4,8 @@ To run this file i have used pycharm console with interpreter from Anaconda dist
 
 How to use this script:
 
+First - you need to run this script.
+
 In class Car i have included all important informations which is necessary to proper work of class from this challenge.
 
 In main function, in c instance of Car class you can write the informations about amount of passengers, car weight and count of gears. 
