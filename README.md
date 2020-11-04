@@ -1,6 +1,6 @@
 # python-Car-class
 
-To run this file i used pycharm console with interpreter from Anaconda distribution, but you can run this code with in some online interpreters and it works too.
+To run this file i have used pycharm console with interpreter from Anaconda distribution, but you can run this code with in some online interpreters and it works too.
 
 How to use this script:
 
